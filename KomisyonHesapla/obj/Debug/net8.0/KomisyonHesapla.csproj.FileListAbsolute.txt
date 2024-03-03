@@ -1,0 +1,14 @@
+D:\Proje\C#\KomisyonHesapla\KomisyonHesapla\bin\Debug\net8.0\KomisyonHesapla.exe
+D:\Proje\C#\KomisyonHesapla\KomisyonHesapla\bin\Debug\net8.0\KomisyonHesapla.deps.json
+D:\Proje\C#\KomisyonHesapla\KomisyonHesapla\bin\Debug\net8.0\KomisyonHesapla.runtimeconfig.json
+D:\Proje\C#\KomisyonHesapla\KomisyonHesapla\bin\Debug\net8.0\KomisyonHesapla.dll
+D:\Proje\C#\KomisyonHesapla\KomisyonHesapla\bin\Debug\net8.0\KomisyonHesapla.pdb
+D:\Proje\C#\KomisyonHesapla\KomisyonHesapla\obj\Debug\net8.0\KomisyonHesapla.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proje\C#\KomisyonHesapla\KomisyonHesapla\obj\Debug\net8.0\KomisyonHesapla.AssemblyInfoInputs.cache
+D:\Proje\C#\KomisyonHesapla\KomisyonHesapla\obj\Debug\net8.0\KomisyonHesapla.AssemblyInfo.cs
+D:\Proje\C#\KomisyonHesapla\KomisyonHesapla\obj\Debug\net8.0\KomisyonHesapla.csproj.CoreCompileInputs.cache
+D:\Proje\C#\KomisyonHesapla\KomisyonHesapla\obj\Debug\net8.0\KomisyonHesapla.dll
+D:\Proje\C#\KomisyonHesapla\KomisyonHesapla\obj\Debug\net8.0\refint\KomisyonHesapla.dll
+D:\Proje\C#\KomisyonHesapla\KomisyonHesapla\obj\Debug\net8.0\KomisyonHesapla.pdb
+D:\Proje\C#\KomisyonHesapla\KomisyonHesapla\obj\Debug\net8.0\KomisyonHesapla.genruntimeconfig.cache
+D:\Proje\C#\KomisyonHesapla\KomisyonHesapla\obj\Debug\net8.0\ref\KomisyonHesapla.dll
